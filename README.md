@@ -16,9 +16,9 @@
 
 📍Living in Spain
 
-🏢 I’m currently working in [Accenture](https://www.accenture.com/es-es) as **Senior DevOps Engineer**
+🏢 I’m currently working in [RavenPack](https://ravenpack.com/) as **Senior DevOps Engineer**
 
-🎮 I’m playing with **Python, Terraform, AWS, Kubernetes**
+🎮 I’m playing with **Python, Terraform, CDK, AWS, Kubernetes**
 
 💬 Ask me about **DevOps Tools and Practices**
 
